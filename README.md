@@ -1,0 +1,1 @@
+Basic django application to create blog post.
